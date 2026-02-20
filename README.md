@@ -66,8 +66,8 @@ I'm open to discussing new projects, collaborations, or job opportunities. Feel 
 | :--- | :--- |
 | **Email** | <a href="mailto:mehedihasanlemon537@gmail.com" target="_blank">mehedihasanlemon537@gmail.com</a> |
 | **LinkedIn** | <a href="https://www.linkedin.com/in/mehediHL-8238ghh7/" target="_blank">https://www.linkedin.com/in/mehediHL-8238ghh7/</a> |
-| **Portfolio** | <a href="https://mehediHL.vercel.app/" target="_blank">https://mehediHL.vercel.app/</a> |
-| **CV** | <a href="https://drive.google.com/file/d/sdfjosjfsjdj/view?usp=sharing" target="_blank">https://drive.google.com/file/d/sdfjosjfsjdj/view?usp=sharing</a> 
+| **Portfolio** | <a href="https://portfolio-sigma-tawny-61.vercel.app" target="_blank">https://portfolio-sigma-tawny-61.vercel.app</a> |
+| **CV** | <a href="https://drive.google.com/file/d/1Fykj-df-XmJSI3ilHcAywcXd74qn6nr5/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1Fykj-df-XmJSI3ilHcAywcXd74qn6nr5/view?usp=sharing</a> 
 
 </div>
 
