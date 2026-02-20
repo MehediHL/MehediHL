@@ -65,3 +65,8 @@ I'm open to discussing new projects, collaborations, or job opportunities. Feel 
 | **Portfolio** | <a href="https://mehediHL.vercel.app/" target="_blank">https://mehediHL.vercel.app/</a> |
 | **CV** | <a href="https://drive.google.com/file/d/sdfjosjfsjdj/view?usp=sharing" target="_blank">https://drive.google.com/file/d/sdfjosjfsjdj/view?usp=sharing</a> 
 
+<div align="center">
+  
+![snake gif](https://github.com/MehediHL/MehediHL/blob/output/github-snake.svg)
+
+</div>
