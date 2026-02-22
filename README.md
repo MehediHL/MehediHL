@@ -48,7 +48,7 @@ Here are a few projects that demonstrate my full-stack and frontend capabilities
 
 ### **1. Hospital Appointment Management System**
 
- **Live Link:** [https://hospital-appointment-system.vercel.app/](https://hospital-appointment-system.vercel.app/)
+ **Live Link:** [https://doctor-appointment-system-weld-five.vercel.app/](https://doctor-appointment-system-weld-five.vercel.app/)
 
 ### **2. Fish Farming Advisory System (AI)**
 
