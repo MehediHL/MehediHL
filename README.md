@@ -48,11 +48,11 @@ Here are a few projects that demonstrate my full-stack and frontend capabilities
 
 ### **1. Hospital Appointment Management System**
 
- **Live Link:** [https://doctor-appointment-system-weld-five.vercel.app/](https://doctor-appointment-system-weld-five.vercel.app/)
+ **Live Link:** [https://doctor-appointment-booking-system-1-y75k.onrender.com/](https://doctor-appointment-booking-system-1-y75k.onrender.com/)
 
-### **2. Fish Farming Advisory System (AI)**
+### **2. MealMate**
 
- **Live Link:** [https://fish-farming-advisory-system.vercel.app/](https://fish-farming-advisory-system.vercel.app/)
+ **Live Link:** [https://meal-mate-system-1.onrender.com/](https://meal-mate-system-1.onrender.com/)
 
 </div>
 
@@ -65,9 +65,9 @@ I'm open to discussing new projects, collaborations, or job opportunities. Feel 
 | Platform | Details |
 | :--- | :--- |
 | **Email** | <a href="mailto:mehedihasanlemon537@gmail.com" target="_blank">mehedihasanlemon537@gmail.com</a> |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/mehediHL-8238ghh7/" target="_blank">https://www.linkedin.com/in/mehediHL-8238ghh7/</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/mehedi-hl/" target="_blank">https://www.linkedin.com/in/mehedi-hl/</a> |
 | **Portfolio** | <a href="https://mehedi-hl.vercel.app/" target="_blank">https://mehedi-hl.vercel.app/</a> |
-| **CV** | <a href="https://drive.google.com/file/d/1Fykj-df-XmJSI3ilHcAywcXd74qn6nr5/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1Fykj-df-XmJSI3ilHcAywcXd74qn6nr5/view?usp=sharing</a> 
+| **CV** | <a href="https://drive.google.com/file/d/1iSbnLs0x2t3hbU84W5v5_RMeBrm_lQim/view?usp=drive_link" target="_blank">https://drive.google.com/file/d/1iSbnLs0x2t3hbU84W5v5_RMeBrm_lQim/view?usp=drive_link</a> 
 
 </div>
 
